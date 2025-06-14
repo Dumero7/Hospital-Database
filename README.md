@@ -39,11 +39,24 @@ The solution is suitable for educational purposes, research, and small clinic im
 
 ## 🗂 ER Diagrams
 
-These diagrams illustrate how the database entities relate to one another. Each image links to a GitHub-hosted version:
+These diagrams illustrate how the database entities relate to one another:
 
-1. ![ER Diagram 1](Appointment_ERD.JPG)
-2. ![ER Diagram 2](https://github.com/your-username/your-repo/blob/main/er_diagrams/er_diagram2.png)
-3. ![ER Diagram 3](https://github.com/your-username/your-repo/blob/main/er_diagrams/er_diagram3.png)
+1. ![ER Diagram 1](ER_DIAGRAM.JPG) 
+2. ![ER Diagram 2](Appointment_ERD.JPG)
+3. ![ER Diagram 3](TREATMENT_ERD.JPG)
+
+---
+
+
+---
+
+## 🗂 SQL CODE SNIPPET
+
+These diagrams shows how the database tables were created:
+
+1. ![ER Diagram 1](Patient Snap.png) 
+2. ![ER Diagram 2](Doctor Snap.png)
+3. ![ER Diagram 3](Appointment and Treatment Snap.png)
 
 ---
 
