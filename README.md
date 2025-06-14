@@ -42,7 +42,7 @@ The solution is suitable for educational purposes, research, and small clinic im
 These diagrams illustrate how the database entities relate to one another:
 
 <img src="ER_DIAGRAM.JPG" alt="ER Diagram 1" width="400" style="margin-right: 20px; margin-bottom: 20px;">
- </br>
+ </br> </br> </br>
 <img src="Appointment_ERD.JPG" alt="ER Diagram 2" width="400" style="margin-right: 20px; margin-bottom: 20px;">
 <img src="TREATMENT_ERD.JPG" alt="ER Diagram 3" width="400" style="margin-bottom: 20px;">
 
