@@ -54,26 +54,19 @@ These diagrams illustrate how the database entities relate to one another:
 ---
 
 
----
-
 ## 🗂 SQL CODE SNIPPET
 
 These diagrams shows how the database tables were created:
 
-1. Full ER Diagram
+1. Creation of Patient Table
 <img src="Patient.png" alt="ER Diagram 1" width="400" style="margin-right: 20px; margin-bottom: 20px;">
  </br> </br> </br>
- 2. Appointment Table Relationship
-<img src="Appointment_ERD.JPG" alt="ER Diagram 2" width="400" style="margin-right: 20px; margin-bottom: 20px;">
+ 2. Creation of Doctor Table
+<img src="Doctor.png" alt="ER Diagram 2" width="400" style="margin-right: 20px; margin-bottom: 20px;">
  </br> </br> </br>
- 3. Treatment Table Relationship
-<img src="TREATMENT_ERD.JPG" alt="ER Diagram 3" width="400" style="margin-bottom: 20px;">
+ 3. Creation of Appointment and Treatment Tables
+<img src="AppointmentTreatment.png" alt="ER Diagram 3" width="400" style="margin-bottom: 20px;">
 
-1. ![ER Diagram 1](Patient Snap.png) 
-2. ![ER Diagram 2](Doctor Snap.png)
-3. ![ER Diagram 3](Appointment and Treatment Snap.png)
-
----
 
 ## 💾 SQL Scripts
 
