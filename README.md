@@ -41,7 +41,7 @@ The solution is suitable for educational purposes, research, and small clinic im
 
 These diagrams illustrate how the database entities relate to one another. Each image links to a GitHub-hosted version:
 
-1. ![ER Diagram 1](https://github.com/your-username/your-repo/blob/main/er_diagrams/er_diagram1.png)
+1. ![ER Diagram 1](Appointment_ERD.JPG)
 2. ![ER Diagram 2](https://github.com/your-username/your-repo/blob/main/er_diagrams/er_diagram2.png)
 3. ![ER Diagram 3](https://github.com/your-username/your-repo/blob/main/er_diagrams/er_diagram3.png)
 
