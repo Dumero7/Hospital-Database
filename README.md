@@ -48,7 +48,7 @@ These diagrams illustrate how the database entities relate to one another:
 
 ![Full ER Diagram](./Images/ER_DIAGRAM.JPG)
 
-<img src="./Images/ER_DIAGRAM.JPG" width="400">
+<img src="[./Images/ER_DIAGRAM.JPG](https://raw.githubusercontent.com/Dumero7/Hospital-Database/main/Images/ER_DIAGRAM.JPG)" width="400">
 
  </br> </br> </br>
  2. Appointment Table Relationship
