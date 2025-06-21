@@ -8,18 +8,20 @@ This project presents a structured and practical SQL-based Hospital Management S
 ## 📁 Project Structure
 
 ```bash
-hospital-management-db/
-├── er_diagrams/
-│   ├── er_diagram1.png
-│   ├── er_diagram2.png
-│   └── er_diagram3.png
-├── sql_snippets/
-│   ├── create_tables.sql
-│   ├── insert_dummy_data.sql
-│   ├── data_insights.sql
-│   ├── snippet1.sql
-│   ├── snippet2.sql
-│   └── ... (other snippets)
+Hospital-Database/
+├── Images/
+│   ├── Appointment ERD.JPG
+│   ├── Appointment and Treatment Snap.png
+│   └──Billing Snap.png
+│   └──Doctor Snap.png
+│   └──ER DIAGRAM.JPG
+│   └──Image1.png
+│   └──Patient Snap.png
+│   └──TREATMENT ERD.JPG
+├── SQLFiles/
+│   ├── Data Insertion.sql
+│   ├── Database definition.sql
+│   └── Hospital_Insights_Dashboard_Queries.sql
 ├── README.md
 ```
 
